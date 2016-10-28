@@ -1,0 +1,22 @@
+body {
+    margin: auto;
+    width: 960px;
+    text-align: left;
+    background-color: #EA8D6C;
+}
+
+h2 {
+    color: brown;
+}
+
+h3.catclass {
+    color: brown;
+}
+
+a:link.blogtitle {
+    color: yellow;
+}
+
+p {
+    color: black;
+}
